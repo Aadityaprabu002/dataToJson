@@ -28,3 +28,4 @@ customer_id | cust_name | city | grade | salesman_id
 3003 | Jozy Altidor | Moscow | 200 | 5007
 
 3001 | rad Guzan | London | 100 | 5005
+#end
