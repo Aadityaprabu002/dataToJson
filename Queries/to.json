@@ -97,9 +97,6 @@
     ],
     [
         {
-            "ord_no": ""
-        },
-        {
             "ord_no": "70001",
             "purch_amt": "150.5",
             "ord_date": "2012-10-05",
@@ -185,9 +182,6 @@
         }
     ],
     [
-        {
-            "salesman_id": ""
-        },
         {
             "salesman_id": "5001",
             "name": "James Hoog",
